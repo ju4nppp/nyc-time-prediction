@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/e7e564e32af146b3abb4289039eb0402/artifacts
+end_time: 1728424806134
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: e7e564e32af146b3abb4289039eb0402
+run_name: Xgboost Hyper-parameter Optimization
+run_uuid: e7e564e32af146b3abb4289039eb0402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424502741
+status: 3
+tags: []
+user_id: jplv0

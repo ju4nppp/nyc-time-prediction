@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/6a29143db5a14989833301a2ae3729d4/artifacts
+end_time: 1728424797367
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 6a29143db5a14989833301a2ae3729d4
+run_name: learned-newt-269
+run_uuid: 6a29143db5a14989833301a2ae3729d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424758199
+status: 3
+tags: []
+user_id: jplv0

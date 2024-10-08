@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/45ad8fbc91214590b294f7e2d16daa25/artifacts
+end_time: 1728424806113
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 45ad8fbc91214590b294f7e2d16daa25
+run_name: nervous-sponge-324
+run_uuid: 45ad8fbc91214590b294f7e2d16daa25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424797383
+status: 3
+tags: []
+user_id: jplv0

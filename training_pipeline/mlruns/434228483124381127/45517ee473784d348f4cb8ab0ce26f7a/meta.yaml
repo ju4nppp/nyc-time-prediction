@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/45517ee473784d348f4cb8ab0ce26f7a/artifacts
+end_time: 1728424544668
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 45517ee473784d348f4cb8ab0ce26f7a
+run_name: puzzled-smelt-96
+run_uuid: 45517ee473784d348f4cb8ab0ce26f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424502837
+status: 3
+tags: []
+user_id: jplv0

@@ -1,0 +1,9 @@
+digest: 51eef6f8
+name: dataset
+profile: '{"features_shape": [54373, 5093], "features_size": 276921689, "features_nbytes":
+  1107686756}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 5093]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "jplv0", "mlflow.source.name": "C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/train_challenger.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "25ee07c0acafdddff0642d30f6ad951ba5939cb9"}}'
+source_type: code

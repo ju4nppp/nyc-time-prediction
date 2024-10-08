@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/549a96a7086c43e5bfce243c5a386a08/artifacts
+end_time: 1728424614654
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 549a96a7086c43e5bfce243c5a386a08
+run_name: rumbling-croc-794
+run_uuid: 549a96a7086c43e5bfce243c5a386a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424601879
+status: 3
+tags: []
+user_id: jplv0

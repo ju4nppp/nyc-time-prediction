@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/1b799418be02438691d2b2a29b860949/artifacts
+end_time: 1728424582937
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 1b799418be02438691d2b2a29b860949
+run_name: industrious-hare-10
+run_uuid: 1b799418be02438691d2b2a29b860949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424555989
+status: 3
+tags: []
+user_id: jplv0

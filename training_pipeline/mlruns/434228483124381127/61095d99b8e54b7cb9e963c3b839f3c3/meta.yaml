@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/61095d99b8e54b7cb9e963c3b839f3c3/artifacts
+end_time: 1728424631501
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 61095d99b8e54b7cb9e963c3b839f3c3
+run_name: auspicious-perch-896
+run_uuid: 61095d99b8e54b7cb9e963c3b839f3c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424614678
+status: 3
+tags: []
+user_id: jplv0

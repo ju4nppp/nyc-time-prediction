@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jplv0/PycharmProjects/nyc-time-prediction/training_pipeline/mlruns/434228483124381127/3910b538fa574a169df9384d79f6071c/artifacts
+end_time: 1728424677791
+entry_point_name: ''
+experiment_id: '434228483124381127'
+lifecycle_stage: active
+run_id: 3910b538fa574a169df9384d79f6071c
+run_name: bold-mink-495
+run_uuid: 3910b538fa574a169df9384d79f6071c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728424631517
+status: 3
+tags: []
+user_id: jplv0
